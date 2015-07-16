@@ -35,7 +35,7 @@ class Block(object):
             # Cargamos la explosion
             Explosion(self.manager, self.rect)
             
-            self.manager.eliminarBloque(self)
+            self.manager.remove_block(self)
             return True
         
         else:
