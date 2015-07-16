@@ -1,0 +1,1 @@
+[{"type": "heart", "pos": [[0, 544]]}, {"type": "player", "pos": [[608, 544]]}, {"type": "hole", "pos": [[0, 0], [607, 0]]}, {"cant": [1, 1, 1], "type": "enemy_count"}]
